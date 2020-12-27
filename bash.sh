@@ -5,7 +5,7 @@ echo "<!DOCTYPE html>
 </head>
 
 <body>
-  <h1>IDN Mantab/h1>
+  <h1>IDN Mantab</h1>
   <p>Upgrade Your Skill, Upgrade Your Life!</p>
 </body>
 
